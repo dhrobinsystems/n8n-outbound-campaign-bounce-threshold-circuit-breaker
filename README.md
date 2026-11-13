@@ -27,6 +27,10 @@ Built and maintained by **DH Robin** ([dhRobin Systems](https://dhrobinsystems.c
 
 ---
 
+## Workflow Architecture
+
+![n8n Outbound Campaign Bounce Threshold Circuit Breaker Workflow](assets/n8n-circuit-breaker-workflow.png)
+
 ## Flow diagram
 
 ```mermaid
