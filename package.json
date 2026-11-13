@@ -1,0 +1,37 @@
+{
+  "name": "n8n-outbound-campaign-bounce-threshold-circuit-breaker",
+  "version": "1.0.0",
+  "description": "n8n safety watchdog for Smartlead/Instantly: evaluates campaign bounce and spam-complaint rates on a schedule and trips a circuit breaker (pause campaign, scrub bounced leads, alert the deliverability engineer via Slack/SMS).",
+  "private": true,
+  "license": "MIT",
+  "author": "DH Robin <https://dhrobinsystems.com> (dhRobin Systems)",
+  "homepage": "https://github.com/dhrobinsystems/n8n-outbound-campaign-bounce-threshold-circuit-breaker#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhrobinsystems/n8n-outbound-campaign-bounce-threshold-circuit-breaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dhrobinsystems/n8n-outbound-campaign-bounce-threshold-circuit-breaker/issues"
+  },
+  "keywords": [
+    "n8n",
+    "smartlead",
+    "instantly",
+    "deliverability",
+    "bounce-rate",
+    "spam-complaints",
+    "circuit-breaker",
+    "cold-email",
+    "revops"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "main": "src/thresholdValidator.js",
+  "scripts": {
+    "test": "node --test",
+    "build": "node scripts/build-workflow.js",
+    "check": "node scripts/build-workflow.js --check",
+    "evaluate": "node scripts/evaluate-stats.js"
+  }
+}
