@@ -1,0 +1,5 @@
+[
+  { "id": 100001, "name": "Sample - Q4 SaaS Outreach", "status": "ACTIVE" },
+  { "id": 100002, "name": "Sample - Imported List (Unverified)", "status": "ACTIVE" },
+  { "id": 100003, "name": "Sample - Paused Test", "status": "PAUSED" }
+]

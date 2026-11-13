@@ -1,0 +1,5 @@
+[
+  { "campaign_name": "Sample Instantly Campaign A", "campaign_id": "00000000-0000-4000-8000-00000000000a", "campaign_status": 1, "leads_count": 1500, "contacted_count": 1100, "emails_sent_count": 2600, "bounced_count": 22, "unsubscribed_count": 7, "reply_count": 40 },
+  { "campaign_name": "Sample Instantly Campaign B", "campaign_id": "00000000-0000-4000-8000-00000000000b", "campaign_status": 1, "leads_count": 900, "contacted_count": 700, "emails_sent_count": 1300, "bounced_count": 38, "unsubscribed_count": 3, "reply_count": 12 },
+  { "campaign_name": "Sample Instantly Campaign C", "campaign_id": "00000000-0000-4000-8000-00000000000c", "campaign_status": 2, "leads_count": 400, "contacted_count": 300, "emails_sent_count": 500, "bounced_count": 40, "unsubscribed_count": 1, "reply_count": 2 }
+]

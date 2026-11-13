@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "id": "00000000-0000-4000-8000-0000000000d1", "email": "alex.placeholder@example.net", "campaign": "00000000-0000-4000-8000-00000000000b", "status": -1 },
+    { "id": "00000000-0000-4000-8000-0000000000d2", "email": "sam.testperson@example.com", "campaign": "00000000-0000-4000-8000-00000000000b", "status": -1 }
+  ],
+  "next_starting_after": "00000000-0000-4000-8000-0000000000d2"
+}

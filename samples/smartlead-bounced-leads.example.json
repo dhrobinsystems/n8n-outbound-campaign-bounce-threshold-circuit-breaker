@@ -1,0 +1,9 @@
+{
+  "total_leads": "2",
+  "offset": 0,
+  "limit": 100,
+  "data": [
+    { "campaign_lead_map_id": 900001, "lead_category_id": null, "status": "INPROGRESS", "lead": { "id": 500001, "first_name": "Jane", "last_name": "Doe", "email": "jane.doe@example.com" } },
+    { "campaign_lead_map_id": 900002, "lead_category_id": null, "status": "INPROGRESS", "lead": { "id": 500002, "first_name": "John", "last_name": "Sample", "email": "john.sample@example.org" } }
+  ]
+}
